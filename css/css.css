@@ -1,0 +1,12 @@
+progress{
+  background-color: #fff !important;
+  border: 0;
+  height: 18px;
+  border-radius: 9px;
+}
+
+#myProgress {
+  max-width: 350px;
+  background-color: #ddd;
+  
+}
