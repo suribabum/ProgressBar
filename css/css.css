@@ -8,5 +8,7 @@ progress{
 #myProgress {
   max-width: 350px;
   background-color: #ddd;
-  
+}
+.rep{
+	  margin-top: 50px;
 }
